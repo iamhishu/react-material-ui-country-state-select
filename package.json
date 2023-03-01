@@ -1,0 +1,31 @@
+{
+  "name": "react-material-country-state-select",
+  "version": "1.0.0",
+  "description": "A library for creating beautiful country-state-city dropdowns",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamhishu/react-material-ui-country-state-select.git"
+  },
+  "keywords": [
+    "react-material-ui-country-state-select",
+    "react-country-select",
+    "react-state-select",
+    "react-material-country-select"
+  ],
+  "author": "Hitesh Chaudhary <hiteshsartan7@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamhishu/react-material-ui-country-state-select/issues"
+  },
+  "homepage": "https://github.com/iamhishu/react-material-ui-country-state-select#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  },
+  "files": ["lib/**/*"]
+}
